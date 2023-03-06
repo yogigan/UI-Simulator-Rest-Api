@@ -140,6 +140,7 @@ public class App extends JFrame {
                 txtInputPath.setText(DEFAULT_CHECK_PATH_URL);
                 txtAreaBodyRequest.setText(DEFAULT_CHECK_BODY);
             } else {
+                txtInputPath.setText("");
                 txtAreaBodyRequest.setText("");
             }
         });

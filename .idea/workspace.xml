@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edd5d4c7-40b0-4d2d-b8bc-3df1486356cf" name="Changes" comment="send and reset button function">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/util/HmacUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/util/RestApiUtil.java" afterDir="false" />
+    <list default="true" id="edd5d4c7-40b0-4d2d-b8bc-3df1486356cf" name="Changes" comment="generate hmac">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,13 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677851976149</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="generate hmac">
+      <created>1677915752398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677915752398</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="init gui" />
     <MESSAGE value="send and reset button function" />
-    <option name="LAST_COMMIT_MESSAGE" value="send and reset button function" />
+    <MESSAGE value="generate hmac" />
+    <option name="LAST_COMMIT_MESSAGE" value="generate hmac" />
   </component>
 </project>
